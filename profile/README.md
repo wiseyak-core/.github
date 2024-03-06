@@ -1,12 +1,20 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
+Welcome to the GitHub profile of Wiseyak! Here's a brief overview of the environment we use for our projects:
 
-**Here are some ideas to get you started:**
+## Environment Description
+We have two environments:
+- **Development**: `DEVELOPMENT` branch for collaboration, testing, and troubleshooting.
+- **Production**: `PRODUCTION` branch for live, stable versions accessible to end-users.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+## Projects
+
+- [wiseyak-ansible-scripts](https://github.com/wiseyak-core/wiseyak-ansible-scripts): This repository contains reusable scripts for GitHub Actions workflows and deployment.
+- [wisemdv3](https://github.com/wiseyak-core/wisemdv3): The main frontend repository for Wiseyak.
+- [wisemd-backend](https://github.com/wiseyak-core/wisemd-backend): The main backend API repository for Wiseyak.
+
+These projects are hosted on our private repository for internal development and collaboration. If you have access, feel free to explore them for more information!
+
+
+Happy coding! 🚀
